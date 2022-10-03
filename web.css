@@ -1,0 +1,44 @@
+#welcome{
+    font-size: 70%;
+}
+body {
+     color: rgb(190, 244, 55);
+     width: 90%;
+     margin-top: 50px;
+     margin-bottom: 40px;
+     margin-left: 60px;
+     margin-right: 50px;
+     background-image: url("pexels-eberhard-grossgasteiger-572897.jpg");
+     background-size: 180%;
+
+ }
+
+ p {
+     font-size: 80px;
+     font-family:'Times New Roman', Times, serif;
+ }
+.italic{
+    font-style:initial;
+    font-family:'Times New Roman', Times, serif;
+}
+#favorites{
+    color:rgb(0, 0, 0); 
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#skills{
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#text{
+    font-size: small;
+
+}
+a:visited{
+    color: rgb(75, 9, 230);
+}
+a:hover{
+    font-size: 120%;
+        background-color:white;
+}

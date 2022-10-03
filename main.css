@@ -1,0 +1,22 @@
+body{
+        color:yellow;
+
+        font-size:70px;
+        /* margin-top: 300px;
+        /* margin-bottom: 150px; */
+        /* margin-left: 110px;
+        margin-right: 70px; */
+        background-image: url("pexels-luis-gomes-546819.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size: 200%;
+        height: 100%;
+        
+}
+a:visited {
+        color: rgb(75, 9, 230);
+}
+a:hover {
+        font-size: 120%;
+        background-color: white;
+}

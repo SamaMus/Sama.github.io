@@ -1,0 +1,33 @@
+div{
+    border:2px solid black;
+    margin-bottom: 20px;
+    padding: 16px;
+    margin: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+ .container:nth-child(1){
+    background-color: rgb(95, 95, 212);
+} 
+
+.line1{
+    background-color: aliceblue;
+    margin: 0px;
+
+}
+.line2{
+        background-color: chartreuse;
+        margin-left: 100px;
+        margin-right: 100px;
+}
+.line3 {
+    background-color: aliceblue;
+        margin: 0px;
+}
+
+.line4 {
+    background-color: chartreuse;
+    margin-left: 100px;
+        margin-right: 100px;
+}
