@@ -1,0 +1,20 @@
+.block{
+display:block
+}
+.removed{
+    display:none
+}
+.green-text{
+    color:darkorchid;
+
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+.yellow-text{
+    color: orangered;
+}
+img{ 
+ width: 400px;
+}

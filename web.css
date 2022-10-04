@@ -17,6 +17,9 @@ body {
      font-size: 80px;
      font-family:'Times New Roman', Times, serif;
  }
+ /* a{
+    color: white;
+ } */
 .italic{
     font-style:initial;
     font-family:'Times New Roman', Times, serif;
@@ -35,10 +38,11 @@ body {
     font-size: small;
 
 }
+
 a:visited{
     color: rgb(75, 9, 230);
 }
 a:hover{
     font-size: 120%;
-        background-color:white;
+        background-color:black;
 }
